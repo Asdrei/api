@@ -12,7 +12,7 @@
 
 L'output deve essere fornito su stdout
 L'unico comando a produrre output deve essere report e nel seguente ordine:
-> <id rel1> <id ent1> <id n_rel1>; <id rel2> <id ent2> <n rel_2>; ...
+> \<id rel1\> \<id ent1\> \<id n_rel1\>; \<id rel2\> \<id ent2\> \<n rel_2\>; ...
 
 se vengono rimosse tutte le relazioni con un dato id, esso non deve comparire nei successivi report
 se non ci sono relazioni l'output deve essere:
